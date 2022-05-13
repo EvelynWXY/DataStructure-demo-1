@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA;AACA;AACA;AACA","sources":["src/style.css"],"sourcesContent":["#screen {\n  border: 1px solid black;\n  width: 200px;\n  height: 200px;\n}\n"],"names":[],"version":3,"file":"tree.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}
